@@ -5,7 +5,7 @@
 # SnakeNom is a self-running snake game program. After activating, a snake
 # will spawn and automatically move towards an apple before repeating the process.
 # This function was mostly created as a curiosity, to see if a game-like
-# program could be implemented using R's native libraries.
+# program could be implemented using R's native capabilities.
 #
 # To run SnakeNom, the Beepr sound library is required.
 # It can be installed by using the following syntax:
